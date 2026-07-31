@@ -227,6 +227,7 @@ LIVE_TRADING=1
 
 
 I am committed to making this entire project accessible, meaning I will be sharing all my ongoing results, future updates, and the full program itself completely for free. Institutional trading firms charge thousands of dollars a month for access to algorithms with a fraction of this transparency, but I firmly believe in leveling the playing field for independent builders and researchers. Since I am dedicating countless hours to refining this code and covering the server and data costs entirely out of pocket, I have set up a voluntary donation jar to support the project's continued development. If this research sparks a new idea for your own strategy, or if you simply want to see this bot reach its final, highly profitable form, consider sending over a small contribution. Just think of it as buying me a coffee or donating the equivalent of just one single winning trade from the demo logs above, which makes it practically effortless to support the work. I will leave my Binance deposit details below for anyone who wants to fuel the next major update.
+<img width="1008" height="1391" alt="image" src="https://github.com/user-attachments/assets/a44e8614-4a6b-4bbc-9e3b-1f511c2a76c4" />
 
 0x093D19B90337aFa2F6826b051A991a7b8Cb983D2
 
