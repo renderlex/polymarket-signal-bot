@@ -21,6 +21,9 @@ Control via Telegram, charts in a separate window, and continuous trading
 - **Telegram control:** status, balance, and entry/exit/settle notifications
   arrive in your chat.
 
+<img width="1003" height="563" alt="image" src="https://github.com/user-attachments/assets/e38f472c-06ca-47de-b83a-fcfc6dcda2cf" />
+
+
 ## Requirements
 
 - Python **3.10+**
@@ -101,6 +104,8 @@ These fields can stay empty for demo mode. For real trading:
    - `3` -- Deposit Wallet (EIP-1271), typical.
    - `1` -- Poly Proxy.
 5. **Never share any of these values** -- keys give full access to funds.
+
+<img width="1008" height="523" alt="image" src="https://github.com/user-attachments/assets/2401d8fa-b289-4394-8ac2-1a493e8e3372" />
 
 ### 2.4 Main parameters (quick reference)
 
