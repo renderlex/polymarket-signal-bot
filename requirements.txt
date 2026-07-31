@@ -1,0 +1,6 @@
+requests>=2.31.0
+python-dotenv>=1.0.0
+websockets>=12.0
+py-clob-client>=0.17.0
+websocket-client
+matplotlib>=3.7.0
